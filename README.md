@@ -1,2 +1,14 @@
-# magic-8-ball
-This is a simple JavaScript program that simulates a Magic 8-Ball. When run, it randomly selects one of eight possible responses to answer a user's question. It's a fun and beginner-friendly project that demonstrates the use of conditional statements and random number generation in JavaScript.
+# Magic 8-Ball 🎱
+
+This is a simple **Magic 8-Ball** program written in JavaScript. It randomly selects and returns a fortune-like response to a user's question.
+
+## Features
+- Generates a random answer from 8 possible responses.
+- Mimics a real Magic 8-Ball experience.
+- Simple and beginner-friendly JavaScript project.
+
+## How to Run
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/magic-8-ball.git
+
